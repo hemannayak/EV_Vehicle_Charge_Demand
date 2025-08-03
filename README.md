@@ -94,10 +94,29 @@ An intuitive and responsive web application that:
 
 ## 🖼️ Screenshot of Output
 
-> _You may add real screenshots of your deployed app here once ready._
+Explore the user interface and features of the deployed EV Adoption Forecasting App:
 
-![App Banner](./assets/app-banner.png)
-![Forecast Output](./assets/forecast-sample.png)
+### 🚗 Forecasting Dashboard  
+Displays current EV stats and forecast input options.  
+![Forecasting Dashboard](./assets/output1.png)
+
+---
+
+### 🌍 Multi-County Comparison  
+Compare EV adoption across selected counties using multiselect.  
+![Multi-County Comparison](./assets/output2.png)
+
+---
+
+### 📈 Forecast Visualization  
+Graphical forecast output for selected duration.  
+![Forecast Visualization](./assets/output3.png)
+
+---
+
+### 📥 Data Export Feature  
+Download the forecasted results as CSV.  
+![Data Export Feature](./assets/output4.png)
 
 ---
 
@@ -117,8 +136,8 @@ An intuitive and responsive web application that:
 
 ## 📎 GitHub Repository
 
-🔗 [GitHub Repo](https://github.com/your-username/EV_Vehicle_Charge_Demand)  
-> _(Replace the link with your actual GitHub repo URL)_
+🔗 [GitHub Repo](https://github.com/hemannayak/EV_Vehicle_Charge_Demand) 
+
 
 ---
 

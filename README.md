@@ -96,31 +96,27 @@ An intuitive and responsive web application that:
 
 Explore the user interface and features of the deployed EV Adoption Forecasting App:
 
-## 🖼️ Screenshot of Output
-
-Explore the user interface and features of the deployed EV Adoption Forecasting App:
-
 ### 🚗 Forecasting Dashboard  
 Displays current EV stats and forecast input options.  
-![Forecasting Dashboard](./assets/output1.png)
+![Forecasting Dashboard](assets/Output1.png)
 
 ---
 
 ### 🌍 Multi-County Comparison  
 Compare EV adoption across selected counties using multiselect.  
-![Multi-County Comparison](./assets/output2.png)
+![Multi-County Comparison](assets/Output2.png)
 
 ---
 
 ### 📈 Forecast Visualization  
 Graphical forecast output for selected duration.  
-![Forecast Visualization](./assets/output3.png)
+![Forecast Visualization](assets/Output3.png)
 
 ---
 
 ### 📥 Data Export Feature  
 Download the forecasted results as CSV.  
-![Data Export Feature](./assets/output4.png)
+![Data Export Feature](assets/Output4.png)
 
 ---
 

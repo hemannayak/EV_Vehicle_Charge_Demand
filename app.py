@@ -49,7 +49,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 with st.sidebar:
-    st.image("ev-car-factory.jpg", use_container_width=True)
+    st.image("ev-car-factory.jpg", use_column_width=True)
+
     st.markdown("<div class='help-box'><b>How to use:</b><br/>"
         "• <b>Select</b> one or more counties (or the whole state) and set your forecast years. <br/>"
         "• View <b>EV adoption trends, growth %</b>, and compare counties.<br/>"
@@ -94,7 +95,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Local image in layout
-st.image("ev-car-factory.jpg", use_container_width=True)
+st.image("ev-car-factory.jpg", use_column_width=True)
+
 
 st.markdown("""
     <div style='text-align: left; font-size: 22px; padding-top: 10px; color: #FFFFFF;'>

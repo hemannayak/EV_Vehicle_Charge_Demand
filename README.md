@@ -96,6 +96,10 @@ An intuitive and responsive web application that:
 
 Explore the user interface and features of the deployed EV Adoption Forecasting App:
 
+## 🖼️ Screenshot of Output
+
+Explore the user interface and features of the deployed EV Adoption Forecasting App:
+
 ### 🚗 Forecasting Dashboard  
 Displays current EV stats and forecast input options.  
 ![Forecasting Dashboard](./assets/output1.png)
